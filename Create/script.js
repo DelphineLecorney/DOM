@@ -22,6 +22,8 @@ const apprenants = [
   "Willy",
 ];
 
+apprenants.sort(() => Math.random() - 0.5);
+
 // Sélection de l'élément <article>
 const article = document.querySelector("article");
 
