@@ -1,2 +1,0 @@
-# DOM
-Introduction au DOM
